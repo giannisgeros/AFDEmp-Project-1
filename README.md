@@ -1,7 +1,7 @@
 [![messaging-app-logo](Images/messagingAppLogo.png)](https://github.com/giannisgeros)
 
 # The Project
-This is a messaging application made in Visual Studio using C#. The user can send and receive messages which are dynamically stored to a database with the help of Entity Framework. Also depending on the user role, the user functionalities can vary (CRUD for Users and RUD for Messages). Finally every move in the app is logged in log.txt file.
+This is a console messaging application made in Visual Studio using C#. The user can send and receive messages which are dynamically stored to a database with the help of Entity Framework. Also depending on the user role, the user functionalities can vary (CRUD for Users and RUD for Messages). Finally every move in the app is logged in log.txt file.
 
 ## User Roles
 | Role        | Funct. 1        | Funct. 2          | Funct. 3         | Funct. 4         | Funct. 5           | Funct. 6       |
@@ -35,7 +35,7 @@ _You can always register as a new user. All new users are registsered with the T
 ## Technologies Used
   - C#
   - Entity Framework
-  - Linq
+  - LINQ
 
 ## Requirements
 See [REQUIREMENTS.md](REQUIREMENTS.md) for more information.
